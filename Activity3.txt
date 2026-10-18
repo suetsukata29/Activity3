@@ -1,1 +1,2 @@
-This is the 3rd Activity :P >_< 
+This is the 3rd Activity :P >_<
+This line was added in the feature branch. T_T
